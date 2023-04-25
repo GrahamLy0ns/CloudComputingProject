@@ -1,0 +1,62 @@
+﻿body {
+    background-color: #0A4D68;
+}
+.logIn {
+    width: 50vw;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    margin-bottom: 20vh;
+}
+.logInBtn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text {
+    color: white;
+    padding: 10px;
+}
+.headingText {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.headingBox {
+    width: 80vw;
+    background-color: #2C3333;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+main {
+    background-color: #2C3333;
+    height: auto;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+/*User page*/
+.taskList {
+    background-color: transparent;
+    color: white;
+}
+.checkBox {
+    margin-left: 70vw;
+}
+/*Project Manager Page*/
+.taskForm {
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.userTaskList {
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
